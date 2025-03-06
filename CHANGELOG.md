@@ -1,0 +1,9 @@
+# 1.0.0 (2025-03-06)
+
+
+### Bug Fixes
+
+* main ([93d154d](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/93d154d748f11824a4348e249a063ffafcf35f55))
+* update release ([b7c6d4a](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/b7c6d4a5d15c31e858ad8f548fcd7a3a561920de))
+* update release ([3927e7f](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/3927e7fc77f50850f7b1cde7eb9fde745e4f08d7))
+* v2 v3 ([a0e3f64](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/a0e3f64edb931047845448dc9e45394318a81444))
