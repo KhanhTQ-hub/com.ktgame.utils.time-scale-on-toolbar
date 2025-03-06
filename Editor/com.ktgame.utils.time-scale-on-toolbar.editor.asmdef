@@ -1,0 +1,19 @@
+{
+    "name": "com.ktgame.utils.time-scale-on-toolbar.editor",
+    "rootNamespace": "com.ktgame.utils.time_scale_on_toolbar.editor",
+    "references": [
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:f90aae8b21766b64ab43b800a63d0f44"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
