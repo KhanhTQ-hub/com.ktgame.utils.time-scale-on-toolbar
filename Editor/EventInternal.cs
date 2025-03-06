@@ -1,18 +1,19 @@
-using System.Collections;
-using System.Collections.Generic;
+using System.Reflection;
 using UnityEngine;
 
-public class EventInternal : MonoBehaviour
+namespace com.ktgame.utils.time_scale_on_toolbar.editor
 {
-    // Start is called before the first frame update
-    void Start()
+    public static class EventInternal
     {
-        
-    }
+        public static Event GetCurrent()
+        {
+            var fieldInfo = typeof(Event).GetField
+            (
+                name: "s_Current",
+                bindingAttr: BindingFlags.Static | BindingFlags.NonPublic
+            );
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+            return (Event)fieldInfo.GetValue(null);
+        }
     }
 }
