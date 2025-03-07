@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.2...v1.0.3) (2025-03-07)
+
+
+### Bug Fixes
+
+* assemblyInfo ([4e0ecc4](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/4e0ecc47479159b1abd630f80fee2775ac2debbb))
+
 ## [1.0.2](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.1...v1.0.2) (2025-03-07)
 
 
