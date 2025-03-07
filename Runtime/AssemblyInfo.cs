@@ -1,4 +1,4 @@
 using System.Reflection;
 
-[assembly: AssemblyTitle("com.unimob.utils.time-scale-on-toolbar")]
-[assembly: AssemblyProduct("com.unimob.utils.time-scale-on-toolbar")]
+[assembly: AssemblyTitle("com.ktgame.utils.time-scale-on-toolbar")]
+[assembly: AssemblyProduct("com.ktgame.utils.time-scale-on-toolbar")]
