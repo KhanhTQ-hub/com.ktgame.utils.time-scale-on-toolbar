@@ -24,7 +24,7 @@ namespace com.ktgame.utils.time_scale_on_toolbar.editor
             int fontSize
         )
         {
-            m_labelStyle = new(EditorStyles.label)
+            m_labelStyle = new GUIStyle(EditorStyles.label)
             {
                 alignment = TextAnchor.UpperLeft,
                 fontSize = fontSize,
@@ -36,7 +36,7 @@ namespace com.ktgame.utils.time_scale_on_toolbar.editor
             m_label = text;
             m_windowSize = labelSize + WINDOW_SIZE_OFFSET;
             m_labelHeight = GUILayout.Height(labelSize.y);
-            m_editorWaitForSeconds = new(time);
+            m_editorWaitForSeconds = new EditorWaitForSeconds(time);
         }
 
         public override void OnOpen()
