@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.3...v1.0.4) (2025-03-11)
+
+
+### Bug Fixes
+
+* unity version 2020 ([9c243b4](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/commit/9c243b45baa29ac07b129b7c2fb76830658c5369))
+
 ## [1.0.3](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.2...v1.0.3) (2025-03-07)
 
 
