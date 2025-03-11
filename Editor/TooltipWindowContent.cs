@@ -7,7 +7,7 @@ namespace com.ktgame.utils.time_scale_on_toolbar.editor
 {
     internal sealed class TooltipWindowContent : PopupWindowContent
     {
-        private static readonly Vector2 WINDOW_SIZE_OFFSET = new(6, 4);
+        private static readonly Vector2 WINDOW_SIZE_OFFSET = new Vector2(6, 4);
 
         private readonly string m_label;
         private readonly GUIStyle m_labelStyle;
