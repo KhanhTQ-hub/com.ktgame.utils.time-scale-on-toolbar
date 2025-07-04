@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/KhanhTQ-Organization/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.5...v1.0.6) (2025-07-04)
+
+
+### Bug Fixes
+
+* update scope ([650de31](https://github.com/KhanhTQ-Organization/com.ktgame.utils.time-scale-on-toolbar/commit/650de31b3684437d415fb91f44c7639dcf200cf4))
+
 ## [1.0.5](https://github.com/KhanhTQ-hub/com.ktgame.utils.time-scale-on-toolbar/compare/v1.0.4...v1.0.5) (2025-03-11)
 
 
